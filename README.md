@@ -21,7 +21,7 @@ However, this model doesn’t fully account for kinematic finger motion types �
 |:---------------------------:|
 | *Figure 2: This graphic is taken from Baker's 2006 replication study on finger and hand movement angles while typing on QWERTY* |
 
-### Theory of Motion Penalty Scores
+## Mathematical Basis for Motion Penalty Scores
 
 | ![alt text](https://github.com/mkstp/layout_analyzer/blob/main/Images/aoa.png) |
 |:---------------------------:|
@@ -55,3 +55,14 @@ Where 'D' is the calculated abduction distance from initial to target. Then we u
 
 ![Equation](https://latex.codecogs.com/png.latex?t_{abd}=\frac{-V_{abd}+\sqrt{V_{abd}^2+2A_{abd}\theta_{abd}}}{A_{abd}})
 
+This behaviour is encapsulated in the move_time function of the script.
+
+## Typing Algorithm
+
+Typing is a coordinated process involving finger preparation, movement times, idle times, and keypress durations. For example, when typing configuration on a staggered QWERTY keyboard, the left middle finger moves to the ‘c’ while the right ring finger prepares to press the ‘o.’ However, the right finger must wait (idle time) for the left to complete its press before it can proceed.
+
+Finger preparation, where a finger moves to its next position while others are still active, highlights the overlapping nature of these actions. Key distances and layout design significantly influence the balance between movement time and idle time, ultimately affecting typing efficiency. The figure below serves as a starting point for analyzing these dynamics.
+
+| ![alt text](https://github.com/mkstp/layout_analyzer/blob/main/Images/configuration.png) |
+|:---------------------------:|
+| *Figure 5: 'configuration on a staggered qwerty keyboard'* |
