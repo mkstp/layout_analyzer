@@ -9,7 +9,9 @@ This tool models finger kinematics and uses a job shop scheduling algorithm to s
 
 To type, your fingers must move to a key and press it. An ergonomic model quantifies the difficulty of these actions, inspired by the Colemak Mod-DH methodology, which uses finger strength, resting position, and angle of approach to assign penalty scores for key positions.
 
-![alt text](https://github.com/mkstp/layout_analyzer/blob/main/Images/iso_angle_approach.png)
+|[alt text](https://github.com/mkstp/layout_analyzer/blob/main/Images/iso_angle_approach.png)|
+|:---------------------------:|
+| *Figure 1: This is the caption for the image.* |
 
 Colemak Mod-DH's key insight is the "angle-of-approach" argument: with a standard keyboard centered at your midline, your hands approach the home row at a radial angle, not vertically. This makes keys like ‘C’ and ‘M’ easier to reach for the index fingers, which naturally curl inward. The model adjusts resting points based on this angle and calculates penalties for movement, with lateral motions penalized more than vertical ones.
 
