@@ -95,10 +95,28 @@ This modeling approach eliminates the confounding variable of unfamiliarity with
 |----------------|-----------------------|
 | Qwerty         | 80                    |
 | Colemak-ModDH  | 89                    |
-| tukey          | 90                    |
 
+Colemak is a more efficient design by a significant margin, and this analysis provides a little more mathematical rigour to that assertion.
 
+## Can I do Better? (the answer is yes obviously)
 
+Remember that my goal was to create a new layout that was more efficient to type but easy to learn. Colemak is certainly more efficient to type, but all potential speed gains are nullified because it takes years to rebuild your muscle memory and reach speed where you surpass Qwerty. And so I had to find a way to preserve the same Qwerty layout and make overall finger movement more efficient at the same time. 
+
+Imagine if you could expand the possible pathways to type, that you had more choices of keys to press instead of the usual 26 letters. The more unfortunate assumption that layout designers make when designing is that one letter can only map to one key on the keyboard. What would happen if one letter appeared in two different places on the keyboard, or if two places on the keyboard mapped to one letter, or a series of letters! It seems inefficient to design this way, but it actually follows a well established efficiency principle of redundancy in engineering. 
+
+## Redundancy
+
+Adding an extra 'e' to the keyboard increases the possible ways of typing 'under', which is a relatively common 5-gram word, without compromising the existing layout. That is to say, you can choose to type the word differently, (and any other word which uses the 'de', 'ed', 'ec', 'ce' bigrams for that matter), without requiring a full reprogramming of your muscle memory for all words using 'e'. For layout designers, I suggest experimenting with duplicate keys of common letters in strategic locations on top of Qwerty layouts for this reason.
+
+## Combinations
+
+| ![alt text](https://github.com/mkstp/layout_analyzer/blob/main/Images/keys.jpg) |
+|:---------------------------:|
+| *Figure 6: 'a picture of my personal keyboard'* |
+
+The reason I choose to use an ortholinear keyboard with the keys as close together as possible is because this arrangement gives me 44 or so extra positions to press with my fingers. That is to say, when I type I'm often pressing two keys side by side with the same finger, which produces the most common combination n-grams like 'the' or 'and' or 'ver'. This speeds up my typing significantly without changing the underlying Qwerty layout, my fingers don't move as much since the 'in-between' keys are closer together than the centers of the individual keys themsevles. 
+
+With duplicate keys and combination keys, the layout analyzer types on my Qwerty keyboard at over 100wpm. 
 
 
 
