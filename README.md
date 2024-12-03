@@ -46,3 +46,7 @@ Instead of arbitrarily scaling lateral movement by a difficulty factor (as in Co
 | Middle          | [35, 36]                                | [250, 250]                                    | [14, 18]                               | [590, 590]                                    |
 | Index           | [33, 34]                                | [350, 400]                                    | [21, 25]                               | [570, 600]                                    |
 | Thumb           | [19, 32]                                | [300, 610]                                    | [20, 36]                               | [210, 610]                                    |
+
+Your fingers travel at different speeds when they flex or extend vs when they abduct or adduct. I'm predicting this will have an effect on typing speed for bigrams that are either placed in parallel or perpendicular to each finger's AOA. To find the amount of angular displacement as each finger moves from an initial to a target position along the FLEX and ABD axes we can use the law of cosines. For simplicity, I'm going to use a radius of 50mm on both the FLEX and ABD axes for all fingers which is roughly the measurement of both my middle + distal and my proximal phalanx (finger segments).
+
+![Equation](https://latex.codecogs.com/png.latex?\theta_{abd}=\cos^{-1}\left(\frac{5000-D_{abd}^2}{10000}\right))
