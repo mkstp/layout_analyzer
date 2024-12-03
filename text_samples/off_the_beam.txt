@@ -1,0 +1,1971 @@
+﻿The Project Gutenberg eBook of Off the Beam, by George O. Smith
+
+This eBook is for the use of anyone anywhere in the United States and
+most other parts of the world at no cost and with almost no restrictions
+whatsoever. You may copy it, give it away or re-use it under the terms
+of the Project Gutenberg License included with this eBook or online at
+www.gutenberg.org. If you are not located in the United States, you
+will have to check the laws of the country where you are located before
+using this eBook.
+
+Title: Off the Beam
+
+Author: George O. Smith
+
+Illustrator: Orban
+
+Release Date: May 10, 2022 [eBook #68047]
+
+Language: English
+
+Produced by: Greg Weeks, Mary Meehan and the Online Distributed
+             Proofreading Team at http://www.pgdp.net
+
+*** START OF THE PROJECT GUTENBERG EBOOK OFF THE BEAM ***
+
+
+
+
+
+                             Off the Beam
+
+                          By GEORGE O. SMITH
+
+                         Illustrated by Orban
+
+           [Transcriber's Note: This etext was produced from
+              Astounding Science-Fiction, February 1944.
+         Extensive research did not uncover any evidence that
+         the U.S. copyright on this publication was renewed.]
+
+
+Thirty hours out of Mars for Terra, the _Solar Queen_ sped along her
+silent, invisible course. No longer was she completely severed from
+all connection with the planets of the inner system; the trick cams
+that controlled the beams at Venus Equilateral kept the ship centered
+by sheer mathematics. It was a poor communications system, however,
+since it was but a one-way job. Any message-answering would have to be
+done thirty hours later when the ship made planetfall, and the regular
+terminal office of Interplanetary Communications could be employed.
+
+In spite of her thirty hours at 2-G, which brought her velocity to
+eleven hundred miles per second, the beam-director cams did their
+job well enough. It was only in extreme cases of course-changing to
+dodge meteors that the beams lost the ship; since the cams were not
+clairvoyant, there was no way to know when the autopilot juggled the
+controls to miss a bit of cosmic dust. The cams continued to spear the
+space through which the ship was supposed to pass according to the
+course constants.
+
+What made this trip ironic was the fact that Don Channing was aboard.
+The beams had been bombarding the _Solar Queen_ continually ever since
+she left Mars with messages for the Director of Communications. In
+one sense, it seemed funny that Channing was for once on the end of a
+communications line where people could talk to him but upon which he
+could not talk back. On the other hand it was a blessing in disguise,
+for the Director of Communications was beginning to paper-talk himself
+into some means of contacting the Relay Station from a spaceship.
+
+A steward found Channing in the salon and handed him a 'gram. Channing
+smiled, and the steward returned the smile and added: "You'll fix these
+ships to talk back one day. Wait until you read that one--you'll burn
+from here to Terra!"
+
+"Reading my mail?" asked Channing cheerfully. The average spacegram was
+about as secret as a postcard, so Channing didn't mind. He turned the
+page over and read:
+
+    HOPE YOU'RE WELL FILLED WITH GRAVANOL AND ADHESIVE TAPE FOR YOUR
+    JUMP FROM TERRA TO STATION. SHALL TAKE GREAT DELIGHT IN RIPPING
+    ADHESIVE TAPE OFF YOUR MEASLY BODY. LOVE.
+
+    ARDEN
+
+"She will, too," grinned Don. "Well, I'd like to toss her one back, but
+she's got me there. I'll just fortify myself at the bar and think up a
+few choice ones for when we hit Mojave."
+
+"Some day you'll be able to answer those," promised the steward. "Mind
+telling me why it's so tough?"
+
+"Not at all," smiled Channing. "The problem is about the same as
+encountered by the old-time cowboy. It's a lot easier to hit a man on
+a moving horse from a nice, solid rock than it is to hit a man on a
+nice, solid rock from a moving horse. Venus Equilateral is quite solid
+as things go. But a spaceship's course is fierce. We're wobbling a few
+milliseconds here and a few there, and by the time you use that arc to
+swing a line of a hundred million miles, you're squirting quite a bit
+of sky. We're tinkering with it right now, but so far we have come up
+with nothing. Ah, well, since the human race got along without electric
+lights for a few million years, we can afford to tinker with an idea
+for a few months. Nobody is losing lives or sleep because we can't talk
+to the boys back home."
+
+"We've been hopping from planet to planet for quite a number of years
+too," said the steward. "Quite a lot of them went by before it was even
+possible to contact a ship in space."
+
+"And that was done because of an emergency. Probably this other
+thing will go on until we hit an emergency; then we shall prove that
+old statement about a loaf of bread being the maternal parent of a
+locomotive." Channing lit a cigarette, and puffed deeply. "Where do we
+stand?"
+
+"Thirty hours out," answered the steward. "About ready for turnover. I
+imagine that the poor engineer's gang is changing cathodes about now."
+
+"It's a long drag," said Channing. He addressed himself to his glass
+and began to think of a suitable answer for his wife's latest thrust.
+
+       *       *       *       *       *
+
+Bill Hadley, of the power engineer's gang, spoke to the pilot's
+greenhouse below the ship. "Hadley to pilot room: Cathodes 1 and 3
+ready."
+
+"Pilot Greenland to Engineer Hadley: Power fade-over from even to odd
+now under way. Tubes 2 and 4 now dead; load on 1 and 3. You may enter 2
+and 4."
+
+"Check!"
+
+Hadley cracked an air valve beside a circular air door. The hiss of
+entering air crescendoed and died, and then Hadley cracked the door
+that opened in upon the huge driver tube. With casual disregard for
+the annular electrodes that filled the tube and the sudden death that
+would come if the pilot sent the driving voltages surging into the
+electrodes, Hadley climbed to the top of the tube and used a spanner to
+remove four huge bolts. A handy differential pulley permitted him to
+lower the near-exhausted cathode from the girders to the air door where
+it was hauled to the deck. A fresh cathode was slung to the pulley and
+hoisted to place. Hadley bolted it tight and clambered back into the
+ship. He closed the air door and the valve, and then opened the valve
+that led from the tube to outer space. The tube evacuated and Hadley
+spoke once more to the pilot room.
+
+"Hadley to Greenland: Tube 4 ready."
+
+"Check."
+
+The operation was repeated on Tube 2, and then Pilot Greenland said:
+"Fade-back beginning. Power diminishing on 1 and 3, increasing on 2 and
+4. Power equalized, acceleration 2-G as before. Deviation from norm:
+two-tenths-G."
+
+Hadley grinned at the crew. "You'd think that Greenland did all that
+himself, the way he talks. If it weren't for autopilots, we'd have been
+all over the sky."
+
+Tom Bennington laughed. He was an old-timer, and he said in a
+reminiscent tone: "I remember when we used to do that on manual. There
+were as many cases of _mal de void_ during cathode change as during
+turnover. Autopilots are the nuts--look! We're about to swing right
+now, and I'll bet a fiver that the folks below won't know a thing about
+it."
+
+A coincidence of mammoth proportions occurred at precisely that
+instant. It was a probability that made the chance of drawing a royal
+flush look like the chances of tomorrow coming on time. It was, in
+fact, one of those things that they said couldn't possibly happen,
+which went to prove only how wrong they were. It hadn't happened yet
+and probably wouldn't happen again for a million million years, but it
+did happen once.
+
+Turnover was about to start. A relay circuit that coupled the
+meteor-spotter to the autopilot froze for a bare instant, and the
+coincidence happened between the freezing of the relay contacts
+and the closing of another relay whose purpose it was to shunt the
+coupler circuits through another line in case of relay failure. In
+the inconceivable short time between the failure and the device that
+corrected failure, the _Solar Queen_ hit a meteor head on.
+
+It is of such coincidences that great tragedies and great victories are
+born.
+
+       *       *       *       *       *
+
+The meteor, a small one as cosmic objects go, passed in through the
+broad observation dome at the top of the ship. Unhampered, it zipped
+through the central well of the _Solar Queen_ and passed out through
+the pilot's greenhouse at the bottom of the ship. Its speed was nothing
+worth noting; a scant twenty miles per second almost sunward. But the
+eleven hundred miles per second of the _Solar Queen_ made the passage
+of the meteor through the six hundred feet of the ship's length of less
+duration than the fastest camera shutter.
+
+In those microseconds, the meteor did much damage.
+
+It passed through the main pilotroom cable and scrambled those circuits
+which it did not break entirely. It tore the elevator system from
+its moorings. It entered as a small hole in the observation dome and
+left taking the entire pilot's greenhouse and all of the complex
+paraphernalia with it.
+
+The lines to the driver tubes were scrambled, and the ship shuddered
+and drove forward at 10-G. An inertia switch tried to function, but the
+resetting solenoid had become shorted across the main battery and the
+weight could not drop.
+
+Air doors clanged shut, closing the central well from the rest of the
+ship and effectively sealing the well from the crew.
+
+The lights in the ship flickered and died. The cable's shorted lines
+grew hot and fire crept along its length and threatened the continuity.
+The heat opened fire-quenching vents and a cloud of CO_{2}, emerged
+together with some of the liquid gas itself. The gas quenched the
+fire and the cold liquid cooled the cable. Fuses blew in the shorted
+circuits--
+
+And the _Solar Queen_ continued to plunge on and on at 10-G; the
+maximum possible out of her driving system.
+
+The only man who remained aware of himself aboard the _Solar Queen_ was
+the man who was filled with gravanol and adhesive tape. No other person
+expected to be hammered down by high acceleration. Only Channing, who
+was planning to leave Terra in his own little scooter, was prepared to
+withstand high G. He, with his characteristic hate of doing anything
+slowly, was ready to make the Terra to Venus Equilateral passage at 5-
+or 6-G.
+
+It might as well have caught him, too. With all of the rest
+unconscious, hurt, or dead, he was alone and firmly fastened to the
+floor of the salon under eighteen hundred pounds of his own, helpless
+weight.
+
+And as the hours passed, the _Solar Queen_ was driving farther and
+farther from the imaginary spot that was the focus of the communicator
+beams from Venus Equilateral.
+
+The newly-replaced cathodes in the driving tubes were capable of
+driving the ship for about two hundred G-hours at 1-G, before
+exhaustion to the point of necessary replacement for safety purposes.
+The proportion is not linear, nor is it a square-law, but roughly it
+lies in the region just above linear, so that the _Solar Queen_ drove
+on and on through space for ten hours at 10-G before the cathodes died
+for want of emitting surface. They died, not at once, but in irregular
+succession so that when the last erg of power was gone from the ship
+it was zooming on a straight line tangent from its point of collision
+but rolling in a wild gyration through the void.
+
+And twenty-five hundred miles per second added to her initial velocity
+of eleven hundred miles per second added up to thirty-six hundred miles
+per second. She should have had about seventy-five million miles to go
+at 2-G, to reach Terra in thirty hours from the halfway point where she
+turned ends to go into deceleration. Instead, the _Solar Queen_ after
+ten hours of misdirected 10-G acceleration was thirty million miles on
+her way, or about halfway to Terra. Three hours later, driving free,
+the _Solar Queen_ was passing Terra, having missed the planet by a few
+million miles.
+
+Back in space, at an imaginary junction between the beams from Venus
+Equilateral and the course registered for the _Solar Queen_, Arden
+Channing's latest message was indicating all sorts of mild punishment
+for her husband when she got him home.
+
+By the time that the _Solar Queen_ should have been dropping out of
+the sky at Mojave Spaceport, the ship would be one hundred and ninety
+million miles beyond Terra and flirting with the imaginary line that
+marked the orbit of Mars.
+
+That would be in seventeen hours.
+
+       *       *       *       *       *
+
+Weightless, Channing pursued a crazy course in the salon of the
+spinning ship. He ached all over from the pressure, but the gravanol
+had kept his head clear and the adhesive tape had kept his body intact.
+He squirmed around in the dimness and could see the inert figures
+of the rest of the people who had occupied the salon at the time of
+the mishap. He became sick. Violence was not a part of Channing's
+nature--at least he confined his violence to those against whom he
+required defense. But he knew that many of those people who pursued
+aimless orbits in the midair of the salon with him would never set foot
+on solidness again.
+
+He wondered how many broken bones there were among those who had lived
+through the ordeal. He wondered if the medical staff of one doctor and
+two nurses could cope with it.
+
+Then he wondered what difference it made if they were to go on and on,
+and from that thought came the one he should have thought of first: How
+were they to stop going on and on? Channing had a rough idea of what
+had happened. He knew something about the conditions under which they
+had been traveling, how long, and in which direction. It staggered him,
+the figures he calculated in his mind. It behooved him to do something.
+
+He bumped an inert figure, and grabbed. One hand took the back of the
+head and came away wet and sticky. Channing retched, and then threw
+the inert man from him. He coasted back against a wall, and caught a
+handrail. Hand-over-hand he went to the door and into the hall. Down
+the hall he went to the passengers' elevator shaft and with no thought
+of what his action would have been on any planet, Channing opened the
+door and drove down the shaft for several decks. He emerged and headed
+for the sick ward.
+
+He found the doctor clinging to his operating table with his knees and
+applying a bandage to one of his nurses' heads.
+
+"Hello, Doc," said Channing. "Help?"
+
+"Grab Jen's feet and hold her down," snapped the doctor.
+
+"Bad?" asked Don as he caught the flailing feet.
+
+"Seven stitches, no fracture," said the doctor.
+
+"How's the other one?"
+
+"Unconscious, but unharmed. Both asleep in bed, thank God. So was I.
+Where were--? You're Channing and were all doped up with gravanol and
+adhesive. Thank yourself a god for that, too. I'm going to need both of
+my nurses and we'll all need you."
+
+"Hope I can do some good," said Don.
+
+"You'd better. Or any good I can do will be wasted. Better start right
+now. Here," the doctor produced a set of keys, "these will unlock
+anything in the ship but the purser's safe. You'll need 'em. Now get
+along and do something and leave the body-mending to me. Scram!"
+
+"Can you make out all right?"
+
+"As best I can. But you're needed to get us help. If you can't, no man
+in the Solar System can. You're in the position of a man who can not
+afford to help in succoring the wounded and dying. It'll be tough, but
+there it is. Get cutting. And for Heaven's sake, get us two things:
+Light and a floor. I couldn't do more than slap on tape whilst floating
+in air. See you later, Channing, and good luck."
+
+The nurse squirmed, groaned, and opened her eyes. "What happened?" she
+asked, blinking into the doctor's flashlight.
+
+"Tell you later, Jen. Get Fern out of her coma in the ward and then
+we'll map out a plan. Channing, get out of here!"
+
+Channing got after borrowing a spare flashlight from the doctor.
+
+       *       *       *       *       *
+
+He found Hadley up in the instrument room with a half dozen of his men.
+They were a mass of minor and major cuts and injuries, and were working
+under a single incandescent lamp that had been wired to the battery
+direct by means of spare cable. The wire went snaking through the air
+in a foolish, crooked line, suspended on nothing. Hadley's gang were
+applying first aid to one another and cursing the lack of gravity.
+
+"Help?" said Channing.
+
+"Need it or offer it?" asked Hadley with a smile.
+
+"Offer it. You'll need it."
+
+"You can say that again--and then pitch in. You're Channing, of
+Communications, aren't you? We're going to have a mad scramble on
+the main circuits of this tub before we can unwind it. I don't think
+there's an instrument working in the whole ship."
+
+"You can't unravel the whole works, can you?"
+
+"Won't try. About all we can do is replace the lighting system and hang
+the dead cathodes in again. They'll be all right to take us out of this
+cockeyed skew-curve and probably will last long enough to keep a half-G
+floor under us for tinkering, for maybe forty or fifty hours. Assistant
+Pilot Darlange will have to learn how to run a ship by the seat of his
+pants--as far as I can guess there isn't even a splinter of glass left
+in the pilot room--so he'll have to correct this flight by feel and by
+using a haywire panel."
+
+"Darlange is a school-pilot," grinned one of Hadley's men.
+
+"I know, Jimmy, but I've seen him work on a bum autopilot, and he
+can handle haywire all right. It'll be tough without Greenland, but
+Greenland--" Hadley let the sentence fall; there was no need to mention
+the fact that Greenland was probably back there with the rest of the
+wreckage torn from the _Solar Queen_.
+
+Jimmy nodded, and the action shook him from his position. He grabbed at
+a roll of tape that was floating near him and let it go with a laugh as
+he realized it was too light to do him any good.
+
+"Too bad that this gyration is not enough to make a decent gravity
+at the ends, at least," snorted Hadley. He hooked Jimmy by an arm and
+hauled the man back to a place beside him. "Now look," he said, "I
+can't possibly guess how many people are still in working condition
+after this. Aside from our taped and doped friend here, the only ones
+I have are we who were snoozing in our beds when the crush came. I'll
+bet a cooky that the rest of the crowd are all nursing busted ribs,
+and worse. Lucky that full-G died slowly as the cathodes went out;
+otherwise we'd all have been tossed against the ceilings with bad
+effects.
+
+"Jimmy, you're a committee of one to roam the crate and make a list of
+everyone who is still in the running and those who can be given minor
+repairs to make them fit for limited work. Doc has a pretty good supply
+of Stader splints; inform him that these are only to be used on men who
+can be useful with them. The rest will have to take to plaster casts
+and the old-fashioned kind of fracture-support.
+
+"Pete, you get to the executive deck and tell Captain Johannson that
+we're on the job and about to make with repairs. As power engineer,
+I've control of the maintenance gang too, and we'll collect the whole,
+hale, and hearty of Michaels' crew on our merry way.
+
+"Tom, take three of your men and begin to unravel the mess with an eye
+toward getting us lights.
+
+"Tony, you can do this alone since we have no weight. You get the stale
+cathodes from the supply hold and hang 'em back in the tubes.
+
+"Channing, until we get a stable place, you couldn't do a thing about
+trying to get help, so I suggest that you pitch in with Bennington,
+there, and help unscramble the wiring. You're a circuit man, and though
+power-line stuff is not your forte, you'll find that running a lighting
+circuit is a lot easier than neutralizing a microwave transmitter. Once
+we get light, you can help us haywire a control panel. Right?"
+
+"Right. And as far as contacting the folks back home goes, we couldn't
+do a darned thing until the time comes when we should be dropping in
+on Mojave. They won't be looking for anything from us until we're
+reported missing; then I imagine that Walt Franks will have everything
+from a spinthariscope to a gold-foil electroscope set up. Right now I'm
+stumped, but we have seventeen hours before we can start hoping to be
+detected. Tom, where do we begin?"
+
+Bennington smiled inwardly. To have Don Channing asking him for orders
+was like having Captain Johannson request the batteryman's permission
+to change course. "If you can find and remove the place where the
+shorted line is, and then splice the lighting circuits again, we'll
+have a big hunk of our work done. The rest of us will begin to take
+lines off of the pilot's circuits right here in the instrument room so
+that our jury-controls can be hooked in. You'll need a suit, I think,
+because I'll bet a hat that the shorted line is in the well."
+
+       *       *       *       *       *
+
+For the next five hours, the instrument room became a beehive of
+activity. Men began coming in driblets, and were put to work as
+they came. The weightlessness gave quite a bit of trouble; had the
+instrument panels been electrically hot, it would have been downright
+dangerous since it was impossible to do any kind of work without
+periodically coming against bare connections. Tools floated around
+the room in profusion, and finally Hadley appointed one man to do
+nothing but roam the place to retrieve "dropped" tools. The soldering
+operations were particularly vicious, since the instinctive act of
+flinging excess solder from the tip of an iron made droplets of hot
+solder go zipping around the room to splash against something, after
+which the splashes would continue to float.
+
+Men who came in seeking to give aid were handed tools and told to do
+this or that, and the problem of explaining how to free a frozen relay
+to unskilled help was terrific.
+
+Then at the end of five hours, Channing came floating in to the
+instrument room. He flipped off the helmet and said to Hadley: "Make
+with the main switch. I think I've got it."
+
+Throughout the ship the lights blinked on.
+
+With the coming of light, there came hope also. Men took a figurative
+hitch in their belts and went to work with renewed vigor. It seemed
+as though everything came to a head at about this time, too. Hadley
+informed Darlange that his jury-control was rigged and ready for
+action, and about the same time, the galley crew came in with
+slender-necked bottles of coffee and rolls.
+
+"It was a job, making coffee," grinned the steward. "The darned stuff
+wanted to get out of the can and go roaming all over the place. There
+isn't a one of us that hasn't got a hot coffee scar on us somewhere.
+Now if he"--nodding at Darlange--"can get this thing straightened out,
+we'll have a real dinner."
+
+"Hear that, Al? All that stands between us and dinner is you. Make with
+the ship-straightening. Then we'll all sit around and wait for Channing
+to think."
+
+"Is the ship's communicator in working order?" asked Darlange.
+
+"Sure. That went on with the lights."
+
+Darlange called for everyone in the ship to hold himself down, and
+then he tied his belt to the frame in front of the haywired panel. He
+opened the power on drivers 1 and 2, and the ship's floor surged ever
+so little.
+
+"How're you going to know?" asked Hadley.
+
+"I've got one eye on the gyro-compass," said Darlange. "When it stops
+turning, we're going straight. Then all we have to do is to set our
+bottom end along the line of flight and pack on the decel. Might as
+well do it that way since every MPS we can lose is to our advantage."
+
+He snapped switches that added power to Driver 3. Gradually the
+gyro-compass changed from a complex rotation-progression to a simpler
+pattern, and eventually the simple pattern died, leaving but one
+freedom of rotation. "I'm sort of stumped," grinned Darlange. "We're
+now hopping along, but rotating on our long axis. How we stop axial
+rotation with drivers set parallel to that axis I'll never guess."
+
+"Is there a lifeship in working order?" asked Hadley.
+
+"Sure."
+
+"Tom, turn it against the rotation and apply the drivers on that until
+we tell you to stop."
+
+An hour later the ship had ceased to turn. Then Darlange jockeyed the
+big ship around so that the bottom was along the line of flight. Then
+he set the power for a half-G, and everyone relaxed.
+
+Ten minutes later Captain Johannson came in.
+
+"You've done a fine job," he told Hadley. "And now I declare an hour
+off for dinner. Dr. MacLain has got a working medical center with
+the aid of a few people who understand how such things work, and the
+percentage of broken bones, though terrific in number, is being taken
+care of. The passengers were pretty restive at first, but the coming of
+light seemed to work wonders. This first glimmer of power is another.
+About nine or ten who were able to do so were having severe cases
+of skysickness." He smiled ruefully. "I'm not too sure that I like
+no-weight myself."
+
+"Have you been in the observation dome?" asked Don.
+
+"Yes. It's pierced, you know."
+
+"Did the meteor hit the telescope?"
+
+"No, why?"
+
+"Because I'm going to have to get a sight on Venus Equilateral before
+we can do anything. We'll have to beam them something, but I don't know
+what right now."
+
+"Can we discuss that over a dinner?" asked the captain. "I'm starved,
+and I think that the rest of this gang is also."
+
+"You're a man after my own heart," laughed Channing. "The bunch out
+at the Station wouldn't believe me if I claimed to have done anything
+without drawing it up on a tablecloth."
+
+       *       *       *       *       *
+
+"Now," said Channing over his coffee. "What have we in the way of
+electronic equipment?"
+
+"One X-ray machine, a standard set of communicating equipment, one beam
+receiver with 'type machine for collecting stuff from your Station, and
+so on."
+
+"You wouldn't have a betatron in the place somewhere?" asked Don
+hopefully.
+
+"Nope. Could we make one?"
+
+"Sure. Have you got about ten pounds of No. 18 wire?"
+
+"No."
+
+"Then we can't."
+
+"Couldn't you use a driver? Isn't that some kind of beam?"
+
+"Some kind," admitted Channing. "But it emits something that we've
+never been able to detect except in an atmosphere where it ionizes the
+air into a dull red glow."
+
+"You should have been wrecked on the _Sorcerer's Apprentice_," laughed
+Hadley. "They're the guys who have all that kind of stuff."
+
+"Have they?" asked Johannson.
+
+"The last time I heard, they were using a large hunk of their upper
+hull for a VanDerGraf generator."
+
+"That would do it," said Channing thoughtfully. "But I don't think I'd
+know how to modulate a VanDerGraf. A betatron would be the thing.
+You can modulate that, sort of, by keying the input. She'd give out
+with hundred-and-fifty-cycle stuff, but so what? We made the _Empress
+of Kolain_ sit up and say uncle on hundred-cycle stuff. How much of a
+trick is it to clear the observation dome from the top?"
+
+"What do you intend to do?"
+
+"Well, we've got a long, hollow tube in this ship. Knock out the
+faceted dome above, and we can rig us up a huge electron gun. We'll
+turn the ship to point at the Station and beam 'em a bouquet of
+electrons."
+
+"How're you going to do that?"
+
+"Not too tough, I don't think. Down here," and Channing began to trace
+on the tablecloth, "we'll put us a hot cathode. About this level we'll
+hang the first anode, and at this level we'll put the second anode.
+Here'll be an acceleration electrode, and up near the top we'll put
+a series of focusing anodes. We'll tap in to the driver-tube supply
+and take off voltages to suit us. Might use a tube at that, but the
+conversion to make an honest electron gun out of it would disrupt our
+power, and then it would be impossible to make a driver out of it again
+without recourse to a machine shop."
+
+"How are you going to make electrodes?"
+
+"We'll use the annular gratings that run around the central well at
+each level," said Channing. "We'll have a crew of men cut 'em free and
+insulate the resulting rings with something. Got anything?"
+
+"There is a shipment of methyl-methacrylate rods for the Venus Power
+Co. in Hold 17," said the cargo master.
+
+"Fine," said Channing. "What size?"
+
+"Three inches by six feet."
+
+"It'll be tricky work, and you'll have to wait until your cut edge has
+cooled before you hook on the rods," mused Don. "But that's the ticket."
+
+"Which floors do you want?"
+
+"Have you got a scale drawing of the _Solar Queen_?"
+
+"Sure."
+
+"Then this is where my tablecloth artistry falls flat. The focusing of
+an electron beam depends upon the electrode spacing and the voltage.
+Since our voltage is fixed if we take it from the driver electrodes,
+we'll have to do some mighty fine figuring. I'll need that scale
+drawing."
+
+       *       *       *       *       *
+
+Channing's tablecloth engineering was not completely wasted. By the
+time the scale drawing was placed before him, Channing had half of the
+table filled with equations. He studied the drawing, and selected the
+levels which were to serve as electrodes. He handed the drawing to
+Hadley, and the power engineer began to issue instructions to his gang.
+
+Then the central well began to swarm with spacesuited men who bore
+cutting torches. Hot sparks danced from the cut girders that held the
+floorings, and at the same time, a crew of men were running cables from
+the various levels to the instrument room. More hours passed while the
+circular sections were insulated with the plastic rods.
+
+The big dome above was cut in sections and removed, and then the sky
+could be seen all the way from the bottom of the ship where the pilot's
+greenhouse should have been.
+
+Channing looked it over and then remarked: "All we need now is an
+electron collector."
+
+"I thought you wanted to shoot 'em off," objected Hadley.
+
+"I do. But we've got to have a source of supply. You can't toss
+baseballs off of the Transplanet Building in Northern Landing all
+afternoon, you know, without having a few brought to you now and then.
+Where do you think they come from?"
+
+"Hadn't thought of it in that way. What'd happen?"
+
+"We'd get along for the first umpty-gillion electrons, and then all
+the soup we could pack on would be equalized by the positive charge on
+the ship and we couldn't shoot out any more until we got bombarded by
+the sun--and that bombardment is nothing to write home about as goes
+quantity. What we need is a selective solar intake plate of goodly
+proportions."
+
+"We could use a mental telepathy expert, too. Or one of those new beams
+that Baler and Carroll dug up out of the Martian desert. I've heard
+that those things will actually suck power out of any source, and bend
+beams so as to enter the intake vent, or end."
+
+"We haven't one of those, either. Fact of the matter is," grinned
+Channing ruefully, "we haven't much of anything but our wits."
+
+"Unarmed, practically," laughed Hadley.
+
+"Half armed, at least. Ah, for something to soak up electrons. I'm now
+wondering if this electron gun is such a good idea."
+
+"Might squirt some protons out the other direction," offered Hadley.
+
+"That would leave us without either," said Don. "We'd be like the man
+who tossed baseballs off of one side and himself off the other--Hey!
+Of course we have some to spare. We can cram electrons out of the
+business end, thus stripping the planetary rings from the atoms in our
+cathode. From the far side we'll shoot the canal rays, which in effect
+will be squirting protons, or the nuclei. Since the planetaries have
+left for the front, it shouldn't be hard to take the protons away,
+leaving nothing. At our present voltages, we might be able to do it."
+Channing began to figure again, and he came up with another set of
+anodes to be placed beyond the cathode. "We'll ventilate the cathode
+and hang these negative electrodes on the far side. They will attract
+the protons, impelled also by the positive charge on the front end.
+We'll maintain a balance that way, effectively throwing away the whole
+atomic structure of the cathode. The latter will fade, just as the
+cathodes do in the driving tubes, only we'll be using electronic power
+instead of sub-electronic. Y'know, Hadley, some day someone is going to
+find a way to detect the--we'll call it radiation for want of anything
+better--of the driver. And then there will open an entirely new field
+of energy. I don't think that anybody has done more about the so-called
+sub-electronic field than to make a nice, efficient driving device out
+of it.
+
+"Well, let's get our canal-ray electrodes in place. We've got about two
+hours before they realize that we aren't going to come in at Mojave.
+Then another two hours worth of wild messages between the Relay Station
+and Mojave. Then we can expect someone to be on the lookout. I hope to
+be there when they begin to look for us. At our present velocity, we'll
+be flirting with the Asteroid Belt in less than nothing flat. That
+isn't too bad--normally--but we're running without any meteor detector
+and autopilot coupler. We couldn't duck anything from a robin's egg on
+up."
+
+"We'll get your anodes set," said Hadley.
+
+       *       *       *       *       *
+
+Walt Franks grinned at Arden Channing. "That'll burn him," he assured
+her.
+
+"It's been on the way for about twenty minutes," laughed Arden. "I
+timed it to arrive at Terra at the same time the _Solar Queen_ does.
+They'll send out a special messenger with it, just as Don is getting
+aboard his little scooter. It'll be the last word, for we're not
+following him from Terra to here."
+
+"You know what you've started?" asked Franks.
+
+"Nothing more than a little feud between husband and self."
+
+"That's just the start. Before he gets done, Don will have every ship
+capable of answering back. I've found that you can catch him off
+base just once. He's a genius--one of those men who never make the
+same mistake twice. He'll never again be in a position to be on the
+listening end only."
+
+"Don's answer should be on the way back by now," said Arden. "Could be
+you're right. Something should be done."
+
+"Sure I'm right. Look at all the time that's wasted in waiting for
+a landing to answer 'grams. In this day and age, time is money,
+squared. The latter is to differentiate between this time and the first
+glimmering of speedy living."
+
+"Was there a first glimmering?" asked Arden sagely. "I've often thought
+that the speed-up was a stable acceleration from the dawn of time to
+the present."
+
+"All right, go technical on me," laughed Walt. "Things do move. That
+is, all except that message from your loving husband."
+
+"You don't suppose he's squelched?"
+
+"I doubt it. Squelching Donald Channing is a job for a superbeing. And
+I'm not too sure that a superbeing could squelch Don and make him stay
+squelched. Better check on Mojave."
+
+"Gosh, if Don missed the _Solar Queen_ and I've been shooting him all
+kinds of screwy 'types every hour on the hour; Walt, that'll keep him
+quiet for a long, long time."
+
+"He'd have let you know."
+
+"That wouldn't have been so bad. But if the big bum missed and was
+ashamed of it--that'll be the pay-off. Whoa, there goes the 'type!"
+
+Arden drew the tape from the machine:
+
+    MESSAGE BEING HELD FOR ARRIVAL OF _SOLAR QUEEN_.
+
+Walt looked at his watch and checked the course constants of the _Solar
+Queen_. He called the beam-control dome and asked for the man on the
+_Solar Queen_ beam.
+
+"Benny," he said, "has the _Solar Queen_ arrived yet?"
+
+"Sure," answered Benny. "According to the mechanical mind here, they've
+been on Mojave for twenty minutes."
+
+"Thanks." To Arden he said: "Something's strictly fishy."
+
+Arden sat at the machine and pounded the keys:
+
+    _SOLAR QUEEN_ DUE TO ARRIVE AT 19:06:41. IT IS NOW 19:27:00. BEAM
+    CONTROL SAYS TRANSMISSIONS ENDED BECAUSE OF COINCIDENCE BETWEEN
+    TERRA BEAM AND STATION-TO-SHIP BEAM. PLEASE CHECK.
+
+Arden fretted and Walt stamped up and down the room during the long
+minutes necessary for the message to reach Terra and the answer to
+return. It came right on the tick of the clock:
+
+    HAVE CHECKED COURSE CONSTANTS. _SOLAR QUEEN_ OVER-DUE NOW FIFTY
+    MINUTES. OBVIOUSLY SOMETHING WRONG. CAN YOU HELP?
+
+Walt smiled in a grim fashion. "Help!" he said. "We go on and on for
+years and years with no trouble--and now we've lost the third ship in a
+row."
+
+"They claim that those things always run in threes," said Arden. "What
+are we going to do?"
+
+"I don't know. We'll have to do something. Funny, but the one reason we
+must do something is the same reason why something can be done."
+
+"I don't get that."
+
+"With Channing on the _Solar Queen_, something can be done. I don't
+know what, but I'll bet you a new hat that Don will make it possible
+for us to detect the ship. There is not a doubt in my mind that if the
+ship is still spaceworthy, we can narrow the possibilities down to a
+thin cone of space."
+
+"How?"
+
+"Well," said Franks, taking the fountain pen out of the holder on the
+desk and beginning to sketch on the blotter, "the course of the _Solar
+Queen_ is not a very crooked one, as courses go. It's a very shallow
+skew curve. Admitting the worst, collision, we can assume only one
+thing. If the meteor were small enough to leave the ship in a floating
+but undirigible condition, it would also be small enough to do nothing
+to the general direction of the ship. Anything else would make it
+useless to hunt, follow?"
+
+"Yes, go on."
+
+"Therefore we may assume that the present position of the _Solar Queen_
+is within the volume of a cone made by the tangents of the outermost
+elements of the space curve that is the _Solar Queen's_ course. We can
+take an eight-thousand-mile cylinder out of one place--for the origin
+of their trouble is between Mars and Terra and the 'shadow' of Terra in
+the cone will not contain the _Solar Queen_."
+
+"Might have passed close enough to Terra to throw her right into the
+'shadow' of Terra by attraction," objected Arden.
+
+"Yeah, you're right. O.K., so we can't take out that cylinder of space.
+And we add a sort of side-wise cone on to our original cone, a volume
+through which the _Queen_ might have flown after passing close enough
+to Terra to be deflected. I'll have the slipstick experts give a guess
+as to the probability of the _Queen's_ course, and at the same time
+we'll suspend all incoming operations. I'm going to set up every kind
+of detector I can think of, and I don't want anything upsetting them."
+
+"What kind of stuff do you expect?" asked Arden.
+
+"I dunno. They might have a betatron aboard. In that case we'll
+eventually get a blast of electrons that'll knock our front teeth out.
+Don may succeed in tinkering up some sort of electrostatic field. We
+can check the solar electrostatic field to about seven decimal places
+right here, and any deviation in the field to the tune of a couple
+of million electron volts at a distance of a hundred million miles
+will cause a distortion in the field that we can measure. We'll ply
+oscillating beams through the area of expectation and hope for an
+answering reflection, though I do not hope for that. We'll have men on
+the lookout for everything from smoke signals to helio. Don't worry too
+much, Arden, your husband is capable of doing something big enough to
+be heard. He's just the guy to do it."
+
+"I know," said Arden soberly. "But I can't help worrying."
+
+"Me, too. Well, I'm off to set up detectors. We'll collect something."
+
+       *       *       *       *       *
+
+"Have we got anything like a piece of gold leaf?" asked Channing.
+
+"I think so, why?"
+
+"I want to make an electroscope. That's about the only way I'll know
+whether we are getting out with this cockeyed electron gun."
+
+"How so?" asked Hadley.
+
+"We can tell from the meter that reads the beam current whether
+anything is going up the pipe," explained Channing. "But if
+we just build us up a nice heavy duty charge--as shown by the
+electroscope--we'll be sure that the electrons are not going far. This
+is one case where no sign is good news."
+
+"I'll have one of the boys set up an electroscope in the instrument
+room."
+
+"Good. And now have the bird on the telescope forget trying to find
+Venus Equilateral by dead reckoning and sight. Have him set the scope
+angles to the figures here, and then have him contact Darlange and have
+the ship slued around so that Venus is on the cross hairs. That'll put
+us on a line for the Station by a few thousand miles. We can afford to
+miss. A bundle of electrons of our magnitude zipping past the detectors
+that Walt can set up will make a reading."
+
+Hadley called the observation dome. "Tim," he said, giving a string of
+figures, "set your 'scope for these and then get Darlange to slue the
+crate around so that your cross hairs are on Venus."
+
+"O.K.," answered Tim. "That's going to be a job. This business of
+looking through a 'scope while dressed in a spacesuit is no fun. Here
+goes."
+
+He called Darlange, and the communicator system permitted the men in
+the instrument room to hear his voice. "Dar," he said, "loop us around
+about forty-one degrees from Driver 3."
+
+Darlange said: "Right!" and busied himself at his buttons.
+
+"Three degrees on Driver 4."
+
+"Right."
+
+"Too far, back her up a degree on 4."
+
+Darlange laughed. "What do you think these things are, blocks and
+tackles? You mean: 'Compensate a degree on 2.'"
+
+"You're the pilot. That's the ticket--and I don't care if you lift it
+on one hand. Can you nudge her just a red hair on 3?"
+
+"Best I can do is a hair and a half," said Darlange. He gave Driver 3
+just a tiny, instantaneous surge.
+
+"Then take it up two and back one and a half," laughed Tim. "Whoa,
+Nellie, you're on the beam."
+
+"Fine."
+
+"O.K., Dar, but you'll have to play monkey on a stick. I'll prime you
+for any moving so that you can correct immediately."
+
+"Right. Don, we're on the constants you gave us. What now?"
+
+"At this point I think a short prayer would be of assistance," said
+Channing soberly. "We're shooting our whole wad right now."
+
+"I hope we make our point."
+
+"Well, it's all or nothing," agreed Don as he grasped the switch.
+
+He closed the switch, and the power demand meters jumped up across
+their scales. The gold-leaf electroscope jumped once; the ultra-thin
+leaves jerked apart by an inch, and then oscillated stiffly until they
+came to a balance. Channing, who had been looking at them, breathed
+deeply and smiled.
+
+"We're getting out," he said.
+
+"Can you key this?" asked Hadley.
+
+"No need," said Channing. "They know we're in the grease. We know that
+if they can collect us, they'll be on their way. I'm going to send out
+for a half-hour, and then resort to a five-minute transmission every
+fifteen minutes. They'll get a ship after us with just about everything
+we're likely to need, and they can use the five-minute transmissions
+for direction finding. The initial shot will serve to give them an idea
+as to our direction. All we can do now is to wait."
+
+"And hope," added Captain Johannson.
+
+       *       *       *       *       *
+
+Electrically, Venus Equilateral was more silent than it had ever been.
+Not an electrical appliance was running on the whole station. People
+were cautioned about walking on deep-pile rugs, or combing their hair
+with plastic combs, or doing anything that would set up any kind of
+electronic charge. Only the highly filtered generators in the power
+rooms were running and these had been shielded and filtered long
+years ago; nothing would emerge from them to interrupt the ether. All
+incoming signals were stopped.
+
+And the men who listened with straining ears claimed that the sky was
+absolutely clear save for a faint crackle of cosmic static which they
+knew came from the corona of the sun.
+
+One group of men sat about a static-field indicator and cursed the
+minute wiggling of the meter, caused by the ever-moving celestial
+bodies and their electronic charges. A sunspot emission passed through
+the Station once, and though it was but a brief passage, it sent the
+electrostatic field crazy and made the men jump.
+
+The men who were straining their ears to hear became nervous, and were
+jumping at every loud crackle.
+
+And though the man at the telescope knew that his probability of
+picking up a sight of the _Solar Queen_ was as slender as a spider's
+web, he continued to search the starry heavens. He swept the narrow
+cone of the heavens wherein the _Solar Queen_ was lost according to the
+mathematical experts, and he looked at every bit of brightness in the
+field of his telescope as though it might be the missing ship.
+
+The beam-scanners watched their return-plates closely. It was difficult
+because the receiver gains were set to maximum, and every tick of
+static caused brief flashes of light upon their plates. They would jump
+at such a flash and watch for it to reappear on the next wipe, for
+a continuous spot of light indicated the ship they sought. Then, as
+the spot did not reappear, they would go on with their beams to cover
+another infinitesimal portion of the sky. Moving forward across the
+cone of expectancy bit by bit, they crossed and recrossed until they
+were growing restive.
+
+Surely the ship must be there!
+
+At the South End landing stage, a group of men were busy stocking a
+ship. Supplies and necessities were carried aboard, while another
+group of men tinkered with the electrical equipment. They cleared a
+big space in the observation dome, and began to install a replica of
+the equipment used on the Station for detection. No matter what kind
+of output Channing sent back, they would be able to follow it to the
+bitter end.
+
+They made their installations in duplicate, with one piece of each
+equipment on opposite sides of the blunt dome. Balancing the inputs of
+each kind by turning the entire ship would give them a good indication
+of direction.
+
+Franks did not hope that the entire installation could be completed
+before the signal came, but he was trying to outguess himself by
+putting some of everything aboard. When and if it came, he would be
+either completely ready with everything or he at least would have a
+good start on any one of the number of detectors. If need be, the
+equipment from the Station itself could be removed and used to complete
+the mobile installation.
+
+Everything was in a complete state of nervous expectancy. Watchers
+watched, meter readers squinted for the barest wiggle, audio observers
+listened, trying to filter any kind of man-made note out of the
+irregular crackle that came in.
+
+And the Station announcing equipment was dead quiet, to be used only
+in case of emergency or to announce the first glimmer of radiation,
+whether it be material, electrical, kinetic, potential, or wave front.
+
+Long they listened--and then it came.
+
+       *       *       *       *       *
+
+The Station announcing equipment broke forth in a multitude of voices.
+
+"Sound input on radio."
+
+"Visual indication on scanner plates!"
+
+"Distortion on electrostatic field indicator."
+
+"Super-electroscopes indicate negative charge!"
+
+"Nothing on the telescope!"
+
+There were mingled cheers and laughter as the speaker system broke away
+from its babel, and each group spoke its piece with no interference.
+Walt Franks left the ship at the South End and raced to the Beam
+Control dome, just as fast as the runway car would take him. He ran
+into the dome in spacesuit and flipped the helmet back over his
+shoulders. "What kind of indication?" he yelled.
+
+Men crowded around him, offering him papers and shouting figures.
+
+"Gosh," he said, "Don can't have everything going up there."
+
+"He's hit just about everything but the guy squinting through the
+'scope."
+
+"What's he doing?" asked Franks of no one in particular.
+
+One of the radiation engineers who had been busy with the electrostatic
+field indicator said: "I think maybe he's using some sort of electron
+gun--like the one you tried first off on the meteor-destroyer-job,
+remember?"
+
+"Yeah, but that one wouldn't work--unless Don has succeeded in doing
+something that we couldn't do. Look, Charley, we haven't had time to
+set up a complete field indicator on the ship. Grab yours and give the
+boys a lift installing it, hey?"
+
+"Sure thing."
+
+"And look, fellows, any indication of direction, velocity, or distance?"
+
+"Look for yourself," said the man on the beam scanner. "The whole plate
+is shining. We can't get a fix on them this way--they're radiating
+themselves and that means that our scanner-system finder is worthless."
+
+"We can, but it's rough," offered one of the radio men. "It came from
+an area out beyond Terra--and as for our readings it might have covered
+a quarter of the sky."
+
+"The field indicator is a short-base finder," explained Charley. "And
+no less rough than the radio boys. I'd say it was out beyond Terra by
+fifty million miles at least."
+
+"Close enough. We'll have to track 'em down like a
+radio-equipped bloodhound. Charley, come along and run that
+mechanico-electro-monstrosity of yours. Gene, you can come along and
+run the radio finder. Oh yes, you, Jimmy, may continue to squint
+through that eyepiece of yours--but on the _Relay Girl_. We need a
+good, first-class squinter, and you should have an opportunity to
+help."
+
+Jimmy laughed shortly. "The only guy on the Station that didn't get an
+indication was me. Not even a glimmer."
+
+"Channing didn't know we'd be _looking_ for him, or he'd probably
+light a flare, too. Cheer up, Jimmy, after all this crude, electrical
+rigamarole is finished, and we gotta get right down to the last
+millimeter, it's the guy with the eye that polishes up the job. You'll
+have your turn."
+
+Twenty minutes after the first glimmer of intelligent signal, the
+_Relay Girl_ lifted from the South End and darted off at an angle,
+setting her nose roughly in the direction of the signal.
+
+Her holds were filled with spare batteries and a whole dozen
+replacement cathodes as well as her own replacements. Her crew was
+filled to the eyebrows with gravanol, and there must have been a mile
+of adhesive tape and cotton on their abdomens. At 6-G she left, and at
+6-G she ran, her crew immobilized but awake because of the gravanol.
+And though the acceleration was terrific, the tape kept the body from
+folding of its own weight. When they returned, they would all be in the
+hospital for a week, but their friends would be with them.
+
+Ten minutes after take-off, the signals ceased.
+
+Walt said: "Keep her running. Don's saving electricity. Tell me when we
+pick him up again."
+
+Franklen, the pilot, nodded. "We haven't got a good start yet. It'll
+be touch and go. According to the slipstick boys, they must be clapping
+it up at between twenty-five hundred and five thousand miles per second
+to get that far--and coasting free or nearly so. Otherwise they'd have
+come in. Any suggestions as to course?"
+
+"Sure. Whoop it up at six until we hit about six thousand. Then
+decelerate to four thousand by using 1-G. We'll vacillate in velocity
+between four and five until we get close."
+
+Forty-one hours later, the _Relay Queen_ made turnover and began to
+decelerate.
+
+       *       *       *       *       *
+
+Channing said to Captain Johannson: "Better cut the decel to about a
+quarter-G. That'll be enough to keep us from bumping our heads on the
+ceiling and it will last longer. This is going to be a long chase, and
+cutting down a few MPS at a half-G isn't going to make much never-mind.
+I'll hazard a guess that the boys are on their way right now."
+
+"If you say so," said Johannson. "You're the boss from now on. You
+know that wild bunch on the Station better than I do. For myself, I've
+always felt that an answer was desirable before we do anything."
+
+"I know Franks and my wife pretty well--about as well as they know me.
+I've put myself in Walt's place--and I know that Walt would do. So--if
+Walt didn't think of it, Arden would--I can assume that they are aware
+of us, have received our signals, and are, therefore, coming along
+as fast as they can. They'll come zipping out here at from five- to
+seven-G to what they think is halfway and then decelerate again to a
+sane velocity. We won't catch sight of them for sixty or seventy hours,
+and when we do, they'll be going so fast that it will take another
+twenty hours worth of manipulation to match their speed with ours.
+Meanwhile, I've got the gun timed to shoot our signal. When the going
+gets critical, I'll cut the power and make it continuous."
+
+"You're pretty sure of your timing?"
+
+"Well, the best they can do as for direction and velocity and distance
+is a crude guess. They'll place us out here beyond Terra somewhere.
+They'll calculate the course requirements to get us this far in the
+time allotted, and come to a crude figure. I'd like to try keying
+this thing, but I know that keying it won't work worth a hoot at this
+distance. Each bundle of keyed electrons would act as a separate
+negative charge that would spread out and close up at this distance.
+It's tough enough to hope that the electron beam will hold together
+that far, let alone trying to key intelligence with it. We'll leave
+well enough alone--and especially if they're trying to get a fix on us;
+there's nothing worse than trying to fix an intermittent station. Where
+are we now?"
+
+"We're on the inner fringe of the Asteroid Belt, about thirty million
+miles North, and heading on a secant course at thirty-four hundred MPS."
+
+"Too bad Jupiter isn't in the neighborhood," said Channing. "We'll be
+flirting with his orbit by the time they catch us."
+
+"Easily," said Johannson. "In sixty hours, we'll have covered about six
+hundred and fifty million miles. We'll be nearer the orbit of Saturn,
+in spite of the secant course."
+
+"Your secant approaches a radius as you get farther out," said Don,
+absently. "As far as distances go. Ah, well, Titan, here we come!"
+
+Johannson spoke to the doctor. "How're we doing?"
+
+"Pretty well," said Doc. "There's as pretty an assortment of fractured
+ribs, broken limbs, cracked clavicles, and scars, mars, and abrasions
+as you ever saw. There are a number dead, worse luck, but we can't do
+a thing about them. We can hold on for a week as far as food and water
+goes. Everyone is now interested in the manner of our rescue rather
+than worrying about it." He turned to Channing. "The words Channing and
+Venus Equilateral have wonderful healing powers," he said. "They all
+think your gang are part magician and part sorcerer."
+
+"Why, for goodness' sake?"
+
+"I didn't ask. Once I told 'em you had a scheme to contact the Relay
+Station, they were all satisfied that things would happen for the
+better."
+
+"Anything we can do to help you out?"
+
+"I think not," answered Doc. "What I said before still goes. Your job
+is to bring aid--and that's the sum total of your job. Every effort
+must be expended on that and that alone. You've got too many whole
+people depending on you to spend one second on the hurt. That's my job."
+
+"O.K.," said Channing, "But it's going to be a long wait."
+
+"We can afford it."
+
+"I hope we're not complicating the job of finding us by this quartering
+deceleration," said Johannson.
+
+"We're not. We're making a sort of vector from our course, but the
+deviation is very small. As long as the fellows follow our radiation,
+we'll be found," Channing said with a smile. "The thing that is tough
+is the fact that all the floors seem to lean over."
+
+"Not much, though."
+
+"They wouldn't lean at all if we were running with the whole set of
+equipment," said Darlange. "We run a complete turnover without spilling
+a drop from the swimming pool."
+
+"Or even making the passengers aware of it unless they're looking at
+the sky."
+
+"Stop worrying about it," said Doc. "I'm the only guy who has to worry
+about it and as long as the floor is still a floor, I can stand sliding
+into the corner once in a while."
+
+"We might tinker with the turnover drivers," offered Don. "We can
+bring 'em down to a place where the velocity-deceleration vectors
+are perpendicular to the floor upon which we stand while our ship is
+sluing. We've got a lot of time on our hands, and I, for one, feel a
+lot happier when I'm doing something."
+
+"It's a thought," said Hadley. "Wanna try it?"
+
+"Let's go."
+
+       *       *       *       *       *
+
+Thirty hours after the _Relay Girl_ left the Station, Walt and Franklen
+held a council of war, in which Charley Bren was the prime factor.
+
+"We've come about two hundred million miles, and our present velocity
+is something like four thousand miles per second," said Walt. "We're
+going out towards Mars on a slightly-off radial course, to the North
+of the ecliptic. That means we're a little over a quarter of a billion
+miles from Sol, or about to hit the Asteroid Belt. Thinking it over a
+little, I think we should continue our acceleration for another thirty
+hours. What say?"
+
+"The field has shown no change in intensity that I can detect," said
+Bren. "If they haven't dropped their radiated intensity, that means
+that we are no closer to them than we were before. Of course, we'd
+probably have to cut the distance by at least a half before any
+measurable decrement made itself evident."
+
+"They must be on the upper limit of that four thousand MPS," observed
+Walt. "There's one thing certain, we'll never catch them by matching
+their speed."
+
+"Where will another thirty hours at 6-G put us and how fast?" asked
+Franklen.
+
+Silence ensued while they scribbled long figures on scratch paper.
+
+"About eight hundred million miles from Sol," announced Walt.
+
+"And about eight thousand MPS," added Charley.
+
+"That's a little extreme, don't you think?" asked Franklen.
+
+"By about thirty percent," said Walt, scratching his chin. "If we hold
+to our original idea of hitting it for six thousand, where will we be?"
+
+"That would make it about forty-five hours from take-off, and we'd be
+about four hundred and sixty million miles from Sol." Charley grinned
+widely and said: "By Jove!"
+
+"What?"
+
+"By Jove!"
+
+"'By Jove!' What?"
+
+"That's where we'd be--By Jove!"
+
+"_Phew._"
+
+"I agree with you," said Franklen to Walt. "Better ignore him."
+
+"Sure will after that. So then we'll be 'By Jove' at six thousand.
+That would be a swell place to make turnover, I think. At 1-G decel,
+to about four thousand MPS, that'll put us about ... um, that'd take
+us ninety hours! We'll make that 3-G, at twenty hours, which will put
+us about three hundred and fifty million miles along, which plus the
+original four hundred and sixty million adds up to eight hundred and
+ten million miles--"
+
+"When an astronaut begins to talk like that," interrupted Arden, "we of
+the skyways say that he is talking in Congressional figures. The shoe
+is on the other foot. What on earth are you fellows figuring?"
+
+"Where we'll be and how fast we'll be going at a given instant of no
+particular importance," offered Walt. "When did you wake up?"
+
+"About the third hundred million. All of those ciphers going by made a
+hollow sound, like a bullet whistling in the wind."
+
+"Well, we're trying to make the theories of probability match with
+figures. We'll know in about forty-five hours whether we were right or
+not."
+
+"It's a good thing we have all space to go around in. Are you sure that
+we have all eternity?"
+
+"Don't get anxious. They're still coming in like a ton of bricks
+four times per hour, which means that they're riding easy. I don't
+want to overrun them at about three thousand MPS and have to spend a
+week decelerating, returning, more decelerating, and then matching
+velocities."
+
+"I see. You know best. And where is this Asteroid Belt that I've heard
+so much about?"
+
+"To the South of us by a few million miles. Those bright specks that
+you can't tell from stars are asteroids. The common conception of the
+Asteroid Belt being filled to overflowing with a collection of cosmic
+rubble like the rings of Saturn is a lot of hooey. We'll be past in
+a little while and we haven't even come close to one. Space is large
+enough for all of us, I think."
+
+"But not when all of us want the same space."
+
+"I don't care for their area," said Walt with a smile. "Let 'em have
+it, I don't care. I'll stay up here and let them run as they will."
+
+"You mean the ones that are moving downward?" asked Arden, indicating
+the sky.
+
+"Those are asteroids, yes. We're to the North, as you may check by
+going around the ship to the opposite side. You'll see Polaris almost
+directly opposite, there. Sol is almost directly below us, and that
+bright one that you can see if you squint almost straight up out of the
+port is Saturn."
+
+"I won't bother crossing the ship to see Polaris. I prefer the Southern
+Cross anyway. The thing I'm most interested in is: Are we accomplishing
+anything?"
+
+"I think that we've spent the last thirty hours just catching up,"
+explained Walt. "Up to right now we were going backwards, so to speak:
+we're on even terms now, and will be doing better from here on in."
+
+"It's the waiting that gets me down," said Arden. "Oh, for something to
+do!"
+
+"Let's eat," suggested Walt. "I'm hungry, and now that I think of it, I
+have not eaten since we left the Station. Arden, you are hereby elected
+to the post of galley chief. Get Jimmy from the dome if you need help."
+
+"Help? What for?"
+
+"He can help you lift it out of the oven. Don must have a cast-iron
+stomach."
+
+"That's hearsay. I'll show you! As soon as I find the can opener,
+breakfast will be served."
+
+"Make mine dinner," said Charley. "We've been awake all the time."
+
+"O.K., we will have a combined meal, from grapefruit to ice cream.
+Those who want any or all parts may choose at will. And fellows, please
+let me know as soon as you get something tangible."
+
+"That's a promise," said Walt. "Take it easy, and don't worry. We'll
+be catching up with them one of these days."
+
+       *       *       *       *       *
+
+"Hadley, how much coating have we got on those cathodes?"
+
+"Not too much. We had about twenty G-hours to begin with. We went to a
+half-G for about twenty hours, and now we're running on a quarter-G,
+which would leave us go for forty hours more. That's a grand total of
+about sixty hours."
+
+"And the batteries?"
+
+"In pretty good shape."
+
+"Well, look. If it should come to a choice between floor and signal
+gun, we'll choose the gun. We've about twelve hours left in the
+cathodes, and since everybody is now used to quarter-G we might even
+slide it down to an eighth-G, which would give us about twenty-four
+hours."
+
+"Your gun is still putting out?"
+
+"So far as I can tell. Ten hours from now, we should know, I think,
+predicating my guess on whatever meager information they must have."
+
+"We could save some juice by killing most of the lights in the ship."
+
+"That's a thought. Johannson, have one of your men run around and
+remove all lights that aren't absolutely necessary. He can kill about
+three quarters of them, I'm certain. That'll save us a few kilowatt
+hours," said Channing. "And another thing. I'm about to drop the power
+of our electron gun and run it continuously. If the boys are anywhere
+in the neighborhood, they'll be needing the continuous disturbance for
+direction finding. I'd say in another five hours that we should start
+continuous radiation."
+
+"You know, Channing, if this thing works out all right, it will be a
+definite vote for pure, deductive reasoning."
+
+"I know. But the pure deduction is not too pure. It isn't guesswork.
+There are two factors of known quantity. One is that I know Walt
+Franks, and the other is that he knows me. The rest is a simple matter
+of the boys on the Station knowing space to the last inch, and applying
+the theory of probabilities to it. We'll hear from them soon, or I'll
+miss my guess. You wait."
+
+"Yeah," drawled Captain Johannson, "we'll wait!"
+
+       *       *       *       *       *
+
+Charley Bren made another computation and said: "Well, Walt, we've been
+narrowing them down for quite a time now. We're getting closer and
+closer to them, according to the field intensity. I've just got a good
+idea of direction on that last five-minute shot. Have Franklen swivel
+us around on this course; pretty soon we'll be right in the middle of
+their shots."
+
+"We're approaching them asymptotically," observed Walt. "I wish I knew
+what our velocity was with respect to theirs. Something tells me that
+it would be much simpler if I knew."
+
+"Walt," asked Arden, "how close can you see a spaceship?"
+
+"You mean how far? Well, I don't know that it's ever been tried and
+recorded. But we can figure it out easy enough, by analogy. A period
+is about thirty thousandths of an inch in diameter, and visible from
+a distance of thirty inches. I mean visible with no doubt about
+it's being there. That's a thousand to one. Now, the _Solar Queen_
+is about six hundred feet tall and about four hundred feet in its
+major diameter, so we can assume a little more than the four hundred
+feet--say five hundred feet average of circular area, say--follow me?"
+
+"Go on, you're vague, but normal."
+
+"Then at a thousand to one, that becomes five hundred thousand
+feet, and dividing by five thousand--round figures because it isn't
+important enough to use that two hundred and eighty feet over the five
+thousand--gives us one thousand miles. We should be able to see the
+_Solar Queen_ from a distance of a thousand miles."
+
+"Then at four thousand miles per second we'll be in and out of visual
+range in a half second?"
+
+"Oh no. They're rambling on a quite similar course at an unknown
+but high velocity. Our velocity with respect to theirs is what will
+determine how long they're within visual range."
+
+"Hey, Walt," came the voice of Charley Bren. "The intensity of Don's
+beam has been cut to about one quarter and is now continuous. Does that
+mean anything?"
+
+"Might mean trouble for them. Either they're running out of soup and
+mean for us to hurry up, or they assume we're close enough to obviate
+the need for high power. We'd better assume they want haste and act
+accordingly. How're the boys on the radio detectors coming along?"
+
+"Fine. They've taken over the direction finding and claim that we are
+right on their tail."
+
+"Anything in the sights, Jimmy?"
+
+"Not yet. But the electroscope boys claim that quarter power or not,
+the input is terrific."
+
+"Take a rest, Jimmy. We won't be there for a while yet. No use burning
+your eyes out trying to see 'em. There'll be time enough for you to do
+your share after we get 'em close enough to see with the naked eye.
+What do the beam-scanners say?"
+
+"Shucks," answered the man on the scanners, "they're still radiating.
+How are we going to fix 'em on a reflected wave when they're more
+powerful on their own hook? The whole plate is glaring white. And,
+incidentally, so is the celestial globe in the meteor-spotter. I've had
+the threshold cut to the devil on that or we'd never be able to hold
+this course. Anything like a meteor that comes in our way now will not
+register until we're right on top of it and--"
+
+       *       *       *       *       *
+
+The _Relay Girl_ lurched sickeningly. All over the ship, things rattled
+and fell to the floors. Men grabbed at the closest solid object, and
+then the _Relay Girl_ straightened out once more.
+
+"_Woosh_," said Franks. "That was a big one."
+
+"Big one?" called Charley Bren. "That, my friend, was none other than
+the _Solar Queen_!"
+
+"Can you prove that?"
+
+"Sure. Our electroscopes now indicate a positive charge; they crossed
+over just as we lurched."
+
+"Jimmy, get your scope a-top and get looking. Franklen, hang on about
+7-G and follow Jimmy's orders. Charley, see if you can get anything
+cogent out of your gadget. Holy Green Fire, with all of a cubic million
+million million megaparsecs in which to run, we have to be so good that
+we run right into our quarry. Who says that radio direction finding is
+not a precise science? Who says that we couldn't catch--"
+
+"Walt, they're in sight, but losing fast."
+
+"O.K., Jimmy, can you give me any idea as to their velocity with
+respect to ours?"
+
+"How long is she?"
+
+"Six hundred feet."
+
+Jimmy was silent for some seconds. "They're out of sight again, but I
+make it about four to seven hundred miles per second."
+
+"At 7-G we should match that seven hundred in about four hours."
+
+"And then go on decelerating so that they'll catch up?"
+
+"No," said Walt. "I used the max figure and we can assume that they
+aren't going that fast, quite. At the end of four hours, we'll
+turnover and wait until they heave in sight again and then we'll do
+some more oscillating. We can match their velocity inside of ten hours,
+or Franklen will get fired."
+
+"If I don't," promised Franklen, "I'll quit. You can't fire me!"
+
+"We should be able to contact them by radio," said Walt.
+
+"Their beam is off," said Bren.
+
+"And they are using the landing set," called the radio man, "It's
+Channing. He says: 'Fancy meeting you here.' Any answer?"
+
+"Just say, 'Dr. Channing, I presume?'"
+
+Channing's voice came out of the ship's announcer system as the radio
+man made the necessary connections. It said: "Right--but what kept you
+so long?"
+
+"Our boss was away," said Walt. "And we can't do a thing without him."
+
+"Some boss. Some crew of wild men. Can't go off on a fishing trip
+without having my bunch chasing all over the Solar System."
+
+"What's wrong with a little sightseeing tour? We didn't mean any harm.
+And speaking of harm, how are you and the rest of that bunch getting
+along?"
+
+"We're O.K. What do you plan after we finally get close enough together
+to throw stones across?"
+
+"We've got a whole hold full of spare batteries and a double set of
+replacement cathodes. There is a shipload of gravanol aboard, too.
+You'll need that and so will we. By the time we finish this jaunt,
+we'll have been about as far out as anybody ever gets."
+
+"Yeah--got any precise figures? We've been running on a guess and a
+hope. I make it out about seven hundred million."
+
+"Make it eight and a half. At 6-G, you'll cover another hundred and
+fifty million miles before you stop. Take it twenty-two hours at
+6-G--and then another twenty-two at 6. That should put you right back
+here but going the other way at the same velocity. But wait, you've
+been coasting. Mark off that last twenty-two hours and make it like
+this: You'll be one thousand million miles from Sol when you come to a
+stop at the end of the first twenty-two hours at 6-G. That hangs you
+out beyond the orbit of Saturn by a couple of hundred million. Make it
+back forty-four hours at 6-G, turnover and continue. By that time we'll
+all be in so close that we can make any planet at will--preferably you
+to Terra and we'll head for Venus Equilateral. You'll come aboard us?
+No need for you to go with the rest."
+
+"I can have the scooter sent out," said Channing. "How's Arden?"
+
+"I'm fine, you big runabout. Wait until I get you!"
+
+"Why Arden, I thought you might be glad to see me."
+
+"Glad to see you?"
+
+"But Arden--"
+
+"Don't you 'But Arden' me, you big gadabout. Glad to see you? Boy, any
+man that makes me chase him all over the Solar System! You just wait.
+As soon as I get ahold of you, Don Channing, I'm going to--bust out and
+bawl like a kid! Hurry up, willya?"
+
+"I'll be right over," said Don soberly.
+
+And, strangely enough, Don did not deviate this time.
+
+
+                                THE END
+
+*** END OF THE PROJECT GUTENBERG EBOOK OFF THE BEAM ***
+
+Updated editions will replace the previous one--the old editions will
+be renamed.
+
+Creating the works from print editions not protected by U.S. copyright
+law means that no one owns a United States copyright in these works,
+so the Foundation (and you!) can copy and distribute it in the
+United States without permission and without paying copyright
+royalties. Special rules, set forth in the General Terms of Use part
+of this license, apply to copying and distributing Project
+Gutenberg-tm electronic works to protect the PROJECT GUTENBERG-tm
+concept and trademark. Project Gutenberg is a registered trademark,
+and may not be used if you charge for an eBook, except by following
+the terms of the trademark license, including paying royalties for use
+of the Project Gutenberg trademark. If you do not charge anything for
+copies of this eBook, complying with the trademark license is very
+easy. You may use this eBook for nearly any purpose such as creation
+of derivative works, reports, performances and research. Project
+Gutenberg eBooks may be modified and printed and given away--you may
+do practically ANYTHING in the United States with eBooks not protected
+by U.S. copyright law. Redistribution is subject to the trademark
+license, especially commercial redistribution.
+
+START: FULL LICENSE
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full
+Project Gutenberg-tm License available with this file or online at
+www.gutenberg.org/license.
+
+Section 1. General Terms of Use and Redistributing Project
+Gutenberg-tm electronic works
+
+1.A. By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement. If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or
+destroy all copies of Project Gutenberg-tm electronic works in your
+possession. If you paid a fee for obtaining a copy of or access to a
+Project Gutenberg-tm electronic work and you do not agree to be bound
+by the terms of this agreement, you may obtain a refund from the
+person or entity to whom you paid the fee as set forth in paragraph
+1.E.8.
+
+1.B. "Project Gutenberg" is a registered trademark. It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement. There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement. See
+paragraph 1.C below. There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this
+agreement and help preserve free future access to Project Gutenberg-tm
+electronic works. See paragraph 1.E below.
+
+1.C. The Project Gutenberg Literary Archive Foundation ("the
+Foundation" or PGLAF), owns a compilation copyright in the collection
+of Project Gutenberg-tm electronic works. Nearly all the individual
+works in the collection are in the public domain in the United
+States. If an individual work is unprotected by copyright law in the
+United States and you are located in the United States, we do not
+claim a right to prevent you from copying, distributing, performing,
+displaying or creating derivative works based on the work as long as
+all references to Project Gutenberg are removed. Of course, we hope
+that you will support the Project Gutenberg-tm mission of promoting
+free access to electronic works by freely sharing Project Gutenberg-tm
+works in compliance with the terms of this agreement for keeping the
+Project Gutenberg-tm name associated with the work. You can easily
+comply with the terms of this agreement by keeping this work in the
+same format with its attached full Project Gutenberg-tm License when
+you share it without charge with others.
+
+1.D. The copyright laws of the place where you are located also govern
+what you can do with this work. Copyright laws in most countries are
+in a constant state of change. If you are outside the United States,
+check the laws of your country in addition to the terms of this
+agreement before downloading, copying, displaying, performing,
+distributing or creating derivative works based on this work or any
+other Project Gutenberg-tm work. The Foundation makes no
+representations concerning the copyright status of any work in any
+country other than the United States.
+
+1.E. Unless you have removed all references to Project Gutenberg:
+
+1.E.1. The following sentence, with active links to, or other
+immediate access to, the full Project Gutenberg-tm License must appear
+prominently whenever any copy of a Project Gutenberg-tm work (any work
+on which the phrase "Project Gutenberg" appears, or with which the
+phrase "Project Gutenberg" is associated) is accessed, displayed,
+performed, viewed, copied or distributed:
+
+  This eBook is for the use of anyone anywhere in the United States and
+  most other parts of the world at no cost and with almost no
+  restrictions whatsoever. You may copy it, give it away or re-use it
+  under the terms of the Project Gutenberg License included with this
+  eBook or online at www.gutenberg.org. If you are not located in the
+  United States, you will have to check the laws of the country where
+  you are located before using this eBook.
+
+1.E.2. If an individual Project Gutenberg-tm electronic work is
+derived from texts not protected by U.S. copyright law (does not
+contain a notice indicating that it is posted with permission of the
+copyright holder), the work can be copied and distributed to anyone in
+the United States without paying any fees or charges. If you are
+redistributing or providing access to a work with the phrase "Project
+Gutenberg" associated with or appearing on the work, you must comply
+either with the requirements of paragraphs 1.E.1 through 1.E.7 or
+obtain permission for the use of the work and the Project Gutenberg-tm
+trademark as set forth in paragraphs 1.E.8 or 1.E.9.
+
+1.E.3. If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any
+additional terms imposed by the copyright holder. Additional terms
+will be linked to the Project Gutenberg-tm License for all works
+posted with the permission of the copyright holder found at the
+beginning of this work.
+
+1.E.4. Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5. Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6. You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including
+any word processing or hypertext form. However, if you provide access
+to or distribute copies of a Project Gutenberg-tm work in a format
+other than "Plain Vanilla ASCII" or other format used in the official
+version posted on the official Project Gutenberg-tm website
+(www.gutenberg.org), you must, at no additional cost, fee or expense
+to the user, provide a copy, a means of exporting a copy, or a means
+of obtaining a copy upon request, of the work in its original "Plain
+Vanilla ASCII" or other form. Any alternate format must include the
+full Project Gutenberg-tm License as specified in paragraph 1.E.1.
+
+1.E.7. Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8. You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works
+provided that:
+
+* You pay a royalty fee of 20% of the gross profits you derive from
+  the use of Project Gutenberg-tm works calculated using the method
+  you already use to calculate your applicable taxes. The fee is owed
+  to the owner of the Project Gutenberg-tm trademark, but he has
+  agreed to donate royalties under this paragraph to the Project
+  Gutenberg Literary Archive Foundation. Royalty payments must be paid
+  within 60 days following each date on which you prepare (or are
+  legally required to prepare) your periodic tax returns. Royalty
+  payments should be clearly marked as such and sent to the Project
+  Gutenberg Literary Archive Foundation at the address specified in
+  Section 4, "Information about donations to the Project Gutenberg
+  Literary Archive Foundation."
+
+* You provide a full refund of any money paid by a user who notifies
+  you in writing (or by e-mail) within 30 days of receipt that s/he
+  does not agree to the terms of the full Project Gutenberg-tm
+  License. You must require such a user to return or destroy all
+  copies of the works possessed in a physical medium and discontinue
+  all use of and all access to other copies of Project Gutenberg-tm
+  works.
+
+* You provide, in accordance with paragraph 1.F.3, a full refund of
+  any money paid for a work or a replacement copy, if a defect in the
+  electronic work is discovered and reported to you within 90 days of
+  receipt of the work.
+
+* You comply with all other terms of this agreement for free
+  distribution of Project Gutenberg-tm works.
+
+1.E.9. If you wish to charge a fee or distribute a Project
+Gutenberg-tm electronic work or group of works on different terms than
+are set forth in this agreement, you must obtain permission in writing
+from the Project Gutenberg Literary Archive Foundation, the manager of
+the Project Gutenberg-tm trademark. Contact the Foundation as set
+forth in Section 3 below.
+
+1.F.
+
+1.F.1. Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+works not protected by U.S. copyright law in creating the Project
+Gutenberg-tm collection. Despite these efforts, Project Gutenberg-tm
+electronic works, and the medium on which they may be stored, may
+contain "Defects," such as, but not limited to, incomplete, inaccurate
+or corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged disk or
+other medium, a computer virus, or computer codes that damage or
+cannot be read by your equipment.
+
+1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from. If you
+received the work on a physical medium, you must return the medium
+with your written explanation. The person or entity that provided you
+with the defective work may elect to provide a replacement copy in
+lieu of a refund. If you received the work electronically, the person
+or entity providing it to you may choose to give you a second
+opportunity to receive the work electronically in lieu of a refund. If
+the second copy is also defective, you may demand a refund in writing
+without further opportunities to fix the problem.
+
+1.F.4. Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO
+OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5. Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of
+damages. If any disclaimer or limitation set forth in this agreement
+violates the law of the state applicable to this agreement, the
+agreement shall be interpreted to make the maximum disclaimer or
+limitation permitted by the applicable state law. The invalidity or
+unenforceability of any provision of this agreement shall not void the
+remaining provisions.
+
+1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in
+accordance with this agreement, and any volunteers associated with the
+production, promotion and distribution of Project Gutenberg-tm
+electronic works, harmless from all liability, costs and expenses,
+including legal fees, that arise directly or indirectly from any of
+the following which you do or cause to occur: (a) distribution of this
+or any Project Gutenberg-tm work, (b) alteration, modification, or
+additions or deletions to any Project Gutenberg-tm work, and (c) any
+Defect you cause.
+
+Section 2. Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of
+computers including obsolete, old, middle-aged and new computers. It
+exists because of the efforts of hundreds of volunteers and donations
+from people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come. In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future
+generations. To learn more about the Project Gutenberg Literary
+Archive Foundation and how your efforts and donations can help, see
+Sections 3 and 4 and the Foundation information page at
+www.gutenberg.org
+
+Section 3. Information about the Project Gutenberg Literary
+Archive Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non-profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service. The Foundation's EIN or federal tax identification
+number is 64-6221541. Contributions to the Project Gutenberg Literary
+Archive Foundation are tax deductible to the full extent permitted by
+U.S. federal laws and your state's laws.
+
+The Foundation's business office is located at 809 North 1500 West,
+Salt Lake City, UT 84116, (801) 596-1887. Email contact links and up
+to date contact information can be found at the Foundation's website
+and official page at www.gutenberg.org/contact
+
+Section 4. Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without
+widespread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine-readable form accessible by the widest
+array of equipment including outdated equipment. Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States. Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements. We do not solicit donations in locations
+where we have not received written confirmation of compliance. To SEND
+DONATIONS or determine the status of compliance for any particular
+state visit www.gutenberg.org/donate
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States. U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg web pages for current donation
+methods and addresses. Donations are accepted in a number of other
+ways including checks, online payments and credit card donations. To
+donate, please visit: www.gutenberg.org/donate
+
+Section 5. General Information About Project Gutenberg-tm electronic works
+
+Professor Michael S. Hart was the originator of the Project
+Gutenberg-tm concept of a library of electronic works that could be
+freely shared with anyone. For forty years, he produced and
+distributed Project Gutenberg-tm eBooks with only a loose network of
+volunteer support.
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as not protected by copyright in
+the U.S. unless a copyright notice is included. Thus, we do not
+necessarily keep eBooks in compliance with any particular paper
+edition.
+
+Most people start at our website which has the main PG search
+facility: www.gutenberg.org
+
+This website includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
